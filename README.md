@@ -24,13 +24,13 @@ No downloads. No setup. Just pure brain-teasing fun.
 
 # 📱 Features
 
--🎮 Escape the Maze – A thrilling maze game where every second counts!
+🎮 Escape the Maze – A thrilling maze game where every second counts!
 
--🧠 Randomly generated mazes with treasures and traps – never the same twice!
+🧠 Randomly generated mazes with treasures and traps never the same twice!
 
--👾 Smooth controls for both desktop and mobile (arrow keys + on-screen buttons)
+👾 Smooth controls for both desktop and mobile (arrow keys + on-screen buttons)
 
--⏳ Beat the 25-second timer and collect all treasures to win!
+⏳ Beat the 25-second timer and collect all treasures to win!
 
 ----
 
